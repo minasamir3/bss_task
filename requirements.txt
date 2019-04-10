@@ -1,33 +1,19 @@
 Sample Project Requirements:
 
-Level 
-1
+Level 1
 - The user will be able to create a new task in both available groups.
  (done)
 - When hovering on any item in the list, a "delete" and icon will appear. (done)
-
 - Clicking the delete icon will show a popover for confirmation. (done)
-
 - Click the task title text to edit the title. (done)
-
 - Click any empty space on the task row to view the task details popover. (done)
-
 - The user can delete any item from both lists. (done)
+- The user can change the date or status of any task. (done) 
 
-
-- The user can change the date or status of any task.
-
-Level (done) 
-2
-- The user can write a comment on a task.
- (done)
+Level 2
+- The user can write a comment on a task. (done)
 - The user can view the comments written by all users. (done)
-
 - All comments are sorted by date. (done)
-
-- The user can sort the list items by dragging and dropping.
- (done)
+- The user can sort the list items by dragging and dropping. (done)
 - The user can drag and drop items from Group A to B and vice versa.  (done)
-- All users opening the page from different sessions will be able to see any changes happening instantly without the need to refresh the page.
-
- (done)
+- All users opening the page from different sessions will be able to see any changes happening instantly without the need to refresh the page. (done)
